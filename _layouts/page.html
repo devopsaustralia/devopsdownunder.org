@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }} | devopsdownunder.org</title>
+		{% include externals.html %}
+		<script src="{{ site.url }}/javascripts/home.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			{% include header.html %}
+
+			<div id="content">
+				{{ content }}
+			</div> <!-- content -->
+
+			{% include footer.html %}
+		</div> <!-- wrapper -->
+		{% include google-analytics.html %}
+	</body>
+</html>

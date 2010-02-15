@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+a img {
+  border: 0;
+}
+
+/* structural */
+body {
+  font-size: 16px;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+
+p {
+  line-height: 1.5em;
+  margin-bottom: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+
+div#wrapper {
+  width: 800px;
+  margin: auto;
+  margin-top: 16px;
+}
+
+div#header {
+  margin-bottom: 16px;
+}
+
+div#content {
+  margin: 8px 0 16px;
+}
+
+div#footer {
+  font-size: 12px;
+  text-align: center;
+}
+
+div#content p.intro {
+  font-size: 150%;
+  margin-bottom: 8px;
+}
+
+div#dates {
+  float: right;
+  width: 400px;
+  font-size: 24px;
+  text-align: right;
+  font-weight: bold;
+}
+
+div#nav {
+  float: right;
+  clear: both;
+  margin-top: 16px;
+}
+
+div#nav a {
+  padding: 4px;
+}
+
+li {
+  margin-bottom: 4px;
+}
+
+h1, h2, h3, h4 {
+  margin-bottom: 12px;
+}
+
+table#schedule {
+  margin-bottom: 16px;
+}
+
+table#schedule th,
+table#schedule td {
+  padding: 4px;
+  text-align: left;
+}
+
+table#schedule th {
+  width: 200px;
+}
+
+table#schedule td.times {
+  width: 120px;
+  color: gray;
+  font-size: 14px;
+}
