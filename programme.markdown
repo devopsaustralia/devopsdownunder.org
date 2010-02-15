@@ -9,8 +9,8 @@ Programme
 <table id="schedule">
 	<tr>
 		<td class="times"></td>
-		<th>Friday</th>
 		<th>Saturday</th>
+		<th>Sunday</th>
 	</tr>
 	<tr>
 		<td class="times">0900 - 1100</td>
