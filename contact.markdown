@@ -11,7 +11,6 @@ Contact
 
 **In case of emergencies phone +61 432 768 089**
 
-Devops Down Under is organised by [Lindsay Holmwood](ljh).
+Devops Down Under is organised by [Lindsay Holmwood](http://holmwood.id.au/~lindsay/).
 
 
-[ljh]: http://holmwood.id.au/~lindsay/
