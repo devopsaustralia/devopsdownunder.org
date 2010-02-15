@@ -26,14 +26,26 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 div#wrapper {
-  width: 800px;
+  width: 740px;
   margin: auto;
   margin-top: 16px;
 }
 
 div#header {
   margin-bottom: 16px;
+}
+
+div#header div#title a {
+  padding: 0;
+}
+
+div#header div#title a:hover {
+  background-color: white;
 }
 
 div#content {
@@ -45,14 +57,25 @@ div#footer {
   text-align: center;
 }
 
+div#content div.intro {
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
 div#content p.intro {
   font-size: 150%;
   margin-bottom: 8px;
+  text-align: center;
+}
+
+div#content p.intro.call {
+  font-weight: bold;
+  margin-bottom: 0px;
 }
 
 div#dates {
   float: right;
-  width: 400px;
+  width: 300px;
   font-size: 24px;
   text-align: right;
   font-weight: bold;
@@ -65,8 +88,10 @@ div#nav {
 }
 
 div#nav a {
-  padding: 4px;
+  padding: 8px 4px 48px;
+  text-decoration: none;
 }
+
 
 li {
   margin-bottom: 4px;
