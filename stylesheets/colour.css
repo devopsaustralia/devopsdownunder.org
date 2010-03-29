@@ -1,5 +1,5 @@
 a {
-  color: #005c94;
+  color: #4a8db4;
 }
 
 a:visited {
@@ -7,12 +7,12 @@ a:visited {
 }
 
 div#header a:visited {
-  color: #005c94;
+  color: #4a8db4;
 }
 
 div#header a:hover {
   color: white;
-  background-color: #005c94;
+  background-color: #4a8db4;
 }
 
 div#header a:hover:visited {

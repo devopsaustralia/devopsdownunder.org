@@ -53,8 +53,20 @@ div#content {
 }
 
 div#footer {
+  clear: both;
   font-size: 12px;
   text-align: center;
+  padding-top: 16px;
+}
+
+div#sponsors {
+  width: 740px;
+  margin: auto;
+  display: none;
+}
+
+div#sponsors img {
+  padding-right: 8px;
 }
 
 div#content div.intro {
@@ -95,10 +107,33 @@ div#nav a {
 
 li {
   margin-bottom: 4px;
+  margin-left: 1em;
+  list-style-type: circle;
+}
+
+ul {
+  margin-bottom: 8px;
 }
 
 h1, h2, h3, h4 {
   margin-bottom: 12px;
+}
+
+div.column {
+  float: left;
+}
+
+div.column.copy {
+  width: 58%;
+}
+
+div.column.register {
+  width: 40%;
+}
+
+div.column.register img {
+  display: block;
+  margin: auto;
 }
 
 table#schedule {
@@ -120,3 +155,18 @@ table#schedule td.times {
   color: gray;
   font-size: 14px;
 }
+
+table#schedule td.break {
+  color: #666666;
+}
+
+table#schedule td.start,
+table#schedule td.end {
+  background-color: #efffbf;
+}
+
+table#schedule td.talk,
+table#schedule td.openspace {
+  background-color: #fceae2;
+}
+
