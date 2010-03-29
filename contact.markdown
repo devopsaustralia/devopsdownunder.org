@@ -13,4 +13,4 @@ Contact
 
 Devops Down Under is organised by [Lindsay Holmwood](http://holmwood.id.au/~lindsay/).
 
-
+Interested in sponsoring the conference? Get in [contact with us](mailto:contact@devopsdownunder.org). 
