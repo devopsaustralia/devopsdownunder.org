@@ -56,8 +56,11 @@ Speakers
 * James Turnbull - *NAB*
 * James Dumay - *Atlassian*
 * John Ferlito - *Robot Parade*
+* Alec Clews - *Voga Consulting*
+* Joel Courtney - *EnergyAustralia*
+* Tim Moore - *Atlassian*
 
-The speaker list is a work in progress - if you are interested in
+The programme is a work in progress - if you are interested in
 giving a talk, please [let us know](/contact)!
 
 Talk topics will cover a range of Devops subjects, spanning process, 
