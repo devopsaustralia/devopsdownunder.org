@@ -13,6 +13,11 @@ task :build do
   system("jekyll")
 end
 
+desc "serve site"
+task :serve do 
+  system("jekyll --server")
+end
+
 desc "deploy site to production"
 task :deploy do 
   # yes, this is specific to @auxesis's machine :-)
