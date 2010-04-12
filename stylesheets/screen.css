@@ -57,12 +57,13 @@ div#footer {
   font-size: 12px;
   text-align: center;
   padding-top: 16px;
+  margin-bottom: 16px;
 }
 
 div#sponsors {
   width: 740px;
   margin: auto;
-  display: none;
+  clear: both;
 }
 
 div#sponsors img {
@@ -97,6 +98,7 @@ div#dates {
 div#nav {
   float: right;
   margin-top: 16px;
+  clear: both;
 }
 
 div#nav a {
@@ -169,8 +171,36 @@ table#schedule td.talk,
 table#schedule td.openspace {
   background-color: #fceae2;
 }
+
+table#schedule td.talk div.title {
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+table#schedule td.talk div.presenter {
+  margin-bottom: 8px;
+  font-size: 12px;
+  color: #666;
+}
+
 table#schedule td.talk div.talks {
-    margin-top: 10px;
     font-size: 0.85em;
 }
 
+table#schedule td.openspace {
+  padding: 16px 4px;
+}
+
+
+div.bio {
+  font-size: 90%;
+  color: #666;
+}
+
+ul.meta {
+  margin-bottom: 16px;
+}
+
+blockquote.address pre {
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
