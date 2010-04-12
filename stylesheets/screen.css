@@ -62,7 +62,7 @@ div#footer {
 div#sponsors {
   width: 740px;
   margin: auto;
-  display: none;
+  clear: both;
 }
 
 div#sponsors img {

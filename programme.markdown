@@ -13,12 +13,12 @@ Programme
 		<th>Sunday</th>
 	</tr>
 	<tr>
-		<td class="times">0900 - 0915</td>
+		<td class="times">0900 - 0930</td>
 		<td class="start">Introduction</td>
 		<td class="start">House Keeping</td>
 	</tr>
 	<tr>
-		<td class="times">0900 - 1100</td>
+		<td class="times">0930 - 1100</td>
 		<td class="talk">
 			Keynote
 			<div class="talks">
@@ -51,7 +51,7 @@ Programme
 				<a href="/abstracts#JamesTurnbull">What The Fuck Is DevOps?</a> by James Turnbull
 				<br />
 				<br />
-				<a href="/abstracts#JamesDumay">TBA</a> by James Dumay
+				<a href="/abstracts#JamesDumay">Atomic Build Systems: The Nuclear Option</a> by James Dumay
 			</div>
 		</td>
 		<td class="talk">
@@ -61,7 +61,7 @@ Programme
 				<a href="/abstracts#JoelCourtney">TBA</a> by Joel Courtney
 				<br />
 				<br />
-				<a href="/abstracts#TimMoore">TBA</a> by Tim Moore
+				<a href="/abstracts#TimMoore">Flex Your Tests</a> by Tim Moore
 			</div>
 		</td>
 	</tr>
@@ -89,7 +89,6 @@ Speakers
 * Joel Courtney - *EnergyAustralia*
 * Robert Collins - *Canonical*
 * John Ferlito - *Robot Parade*
-* Lindsay Holmwood - *Rails Machine*
 * James Dumay - *Atlassian*
 * Tim Moore - *Atlassian*
 * James Turnbull - *NAB*
@@ -97,5 +96,4 @@ Speakers
 The programme is a work in progress - if you are interested in
 giving a talk, please [let us know](/contact)!
 
-Talk topics will cover a range of Devops subjects, spanning process, 
-methodology, and tools. 
+Talk topics will cover a range of Devops subjects, spanning process, methodology, and tools.
