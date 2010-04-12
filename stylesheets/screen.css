@@ -91,11 +91,11 @@ div#dates {
   font-size: 24px;
   text-align: right;
   font-weight: bold;
+  clear: both;
 }
 
 div#nav {
   float: right;
-  clear: both;
   margin-top: 16px;
 }
 
@@ -147,7 +147,7 @@ table#schedule td {
 }
 
 table#schedule th {
-  width: 200px;
+  width: 310px;
 }
 
 table#schedule td.times {
@@ -168,5 +168,9 @@ table#schedule td.end {
 table#schedule td.talk,
 table#schedule td.openspace {
   background-color: #fceae2;
+}
+table#schedule td.talk div.talks {
+    margin-top: 10px;
+    font-size: 0.85em;
 }
 
