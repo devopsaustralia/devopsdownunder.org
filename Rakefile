@@ -17,7 +17,9 @@ end
 
 desc "serve site"
 task :serve do 
-  system("jekyll --server")
+  Dir.chdir(File.join(File.dirname(__FILE__), '_site')) do 
+    system("python -m SimpleHTTPServer")
+  end
 end
 
 desc "deploy site to production"
