@@ -1,7 +1,7 @@
----                                                                                                                        
+---
 layout: page
 title: Location
---- 
+---
 
 Location
 ========
@@ -10,6 +10,6 @@ Location
 
 Devops Down Under will be held at the Atlassian offices, located at: 
 
-173-185 Sussex Street,   
-Sydney, New South Wales     
-2000 Australia     
+173-185 Sussex Street,
+Sydney, New South Wales
+2000 Australia

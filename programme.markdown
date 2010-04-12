@@ -1,7 +1,7 @@
----                                                                                                                        
+---
 layout: page
 title: Programme
---- 
+---
 
 Programme
 =========
@@ -15,12 +15,27 @@ Programme
 	<tr>
 		<td class="times">0900 - 0915</td>
 		<td class="start">Introduction</td>
-		<td class="talk">Talks</td>
+		<td class="start">House Keeping</td>
 	</tr>
 	<tr>
 		<td class="times">0900 - 1100</td>
-		<td class="talk">Keynote</td>
-		<td class="talk"></td>
+		<td class="talk">
+			Keynote
+			<div class="talks">
+			<br />
+				<a href="/abstracts#RobertCollins">Rob Spinning Shit</a> by Robert Collins
+			</div>
+		</td>
+		<td class="talk">
+			Talks
+			<br />
+			<div class="talks">
+				<a href="/abstracts#JohnFerlito">Commit early, Deploy often</a> by John Ferlito
+				<br />
+				<br />
+				<a href="/abstracts#AlecClews">Build Audit and Processes: A line of sight from DEV to PROD</a> by Alec Clews
+			</div>
+		</td>
 	</tr>
 	<tr>
 		<td class="times">1100 - 1130</td>
@@ -29,8 +44,26 @@ Programme
 	</tr>
 	<tr>
 		<td class="times">1130 - 1300</td>
-		<td class="talk">Talks</td>
-		<td class="talk">Talks</td>
+		<td class="talk">
+			Talks
+			<br />
+			<div class="talks">
+				<a href="/abstracts#JamesTurnbull">What The Fuck Is DevOps?</a> by James Turnbull
+				<br />
+				<br />
+				<a href="/abstracts#JamesDumay">TBA</a> by James Dumay
+			</div>
+		</td>
+		<td class="talk">
+			Talks
+			<br />
+			<div class="talks">
+				<a href="/abstracts#JoelCourtney">TBA</a> by Joel Courtney
+				<br />
+				<br />
+				<a href="/abstracts#TimMoore">TBA</a> by Tim Moore
+			</div>
+		</td>
 	</tr>
 	<tr>
 		<td class="times">1300 - 1400</td>
@@ -52,13 +85,14 @@ Programme
 Speakers
 ========
 
-* Robert Collins - *Canonical*
-* James Turnbull - *NAB*
-* James Dumay - *Atlassian*
-* John Ferlito - *Robot Parade*
 * Alec Clews - *Voga Consulting*
 * Joel Courtney - *EnergyAustralia*
+* Robert Collins - *Canonical*
+* John Ferlito - *Robot Parade*
+* Lindsay Holmwood - *Rails Machine*
+* James Dumay - *Atlassian*
 * Tim Moore - *Atlassian*
+* James Turnbull - *NAB*
 
 The programme is a work in progress - if you are interested in
 giving a talk, please [let us know](/contact)!
