@@ -27,6 +27,12 @@ Programme
 				<div class="presenter">
 					Robert Collins
 				</div>
+				<div class="title">
+					<a href="#JamesTurnbull">What The Fuck Is DevOps?</a>
+				</div>
+				<div class="presenter">
+					James Turnbull
+				</div>
 			</div>
 		</td>
 		<td class="talk">
@@ -56,16 +62,16 @@ Programme
 		<td class="talk">
 			<div class="talks">
 				<div class="title">
-					<a href="#JamesTurnbull">What The Fuck Is DevOps?</a>
-				</div>
-				<div class="presenter">
-					James Turnbull
-				</div>
-				<div class="title">
 					<a href="#JamesDumay">Atomic Build Systems: The Nuclear Option</a>
 				</div>
 				<div class="presenter">
 					James Dumay
+				</div>
+				<div class="title">
+					<a href="#AlanMilligan">Zenoss and the art of monitoring systems</a>
+				</div>
+				<div class="presenter">
+					Alan Milligan
 				</div>
 			</div>
 		</td>
@@ -138,7 +144,7 @@ This presentation briefly examines these problems and looks at various approache
 
 <div class="bio">
 <p>
-Alec has over twenty five years in software: managing development and implementation projects; consulting; design work and programming. Alec is unusual because he can manage wider project issues and understands what business value is, whilst still remaining very technical. 
+Alec has over twenty five years in software: managing development and implementation projects; consulting; design work and programming. Alec is unusual because he can manage wider project issues and understands what business value is, whilst still remaining very technical.
 </p>
 <p>
 Alec has been part of the Open Source Community since 1993 and using the Internet since 1992. His experience spans embedded microprocessor systems to z/OS mainframes and includes significant Windows and Linux/UNIX knowledge.
@@ -170,7 +176,7 @@ For a real job, James runs the CERT function at the National Australia Bank. He 
 </div>
 
 
-TBA
+Keynote
 ---
 ** Robert Collins ** - Canonical
 
@@ -179,6 +185,29 @@ TBA
 	<li>Blog: <a href="http://www.advogato.org/person/robertc/">advogato.org/robertc</a></li>
 	<li>Twitter: <a href="http://twitter.com/rbtcollins">@rbtcollins</a></li>
 </ul>
+</div>
+
+<div id="AlanMilligan"></div>
+
+Zenoss and the art of monitoring systems
+----------------------------------------
+
+** Alan Milligan ** - Last Bastion Network Solutions
+
+Zenoss is the leading open source platform to monitor network and systems infrastructure.  This presentation will provide a whirlwind demonstration of Zenoss's features and then concentrate upon how to write your own ZenPack extension.  The entire process of 'what I wish to monitor', 'how to display these statistics', and 'what code I must write' are dealt with in depth, and the full lifecycle of design, develop, and deploy is readily unmasked for the budding Zen-master.
+
+<div class="bio">
+<p>
+Alan Milligan is the principal technical architect of Last Bastion Network Solutions in Australia.
+</p>
+<p>
+His background is in application development with a number of global titans of retail and investment banking. Alan is uniquely placed to present Zenoss because the open source architecture upon which it's based, Zope, has been the core of Last Bastion offerings for a decade.
+</p>
+
+<ul class="meta">
+	<li>Website: <a href="http://au.last-bastion.net">au.last-bastion.net</a></li>
+</ul>
+
 </div>
 
 <div id="JamesDumay"></div>
@@ -261,6 +290,6 @@ Tim is a newcomer to Australia, having just moved to Sydney in February after wo
 </div>
 
 
-We're almost full up, but if you are interested in giving a talk, 
+We're almost full up, but if you are interested in giving a talk,
 please [let us know](/contact)!
 
