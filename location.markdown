@@ -6,15 +6,15 @@ title: Location
 Location
 ========
 
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=173-185+Sussex+Street,+Sydney,+New+South+Wales+2000+Australia&hl=en&ie=UTF8&hq=&hnear=173%2F185+Sussex+St,+Sydney+New+South+Wales+2000,+Australia&z=14&output=embed"></iframe>
-<a href="http://maps.google.com/maps?q=173-185+Sussex+Street,+Sydney,+New+South+Wales+2000+Australia&hl=en&ie=UTF8&hq=&hnear=173/185+Sussex+St,+Sydney+New+South+Wales+2000,+Australia&view=map&z=16">View Larger Map</a>
+<iframe width="740" height="545" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?ie=UTF8&fb=1&hq=saxons&hnear=Melbourne+VIC,+Australia&hl=en&view=map&cid=15901992022002625010&iwloc=A&ll=-37.817524,144.957476&spn=0.006295,0.006295&z=16&output=embed"></iframe>
+<a href="http://maps.google.com/maps?ie=UTF8&fb=1&hq=saxons&hnear=Melbourne+VIC,+Australia&hl=en&view=map&cid=15901992022002625010&z=17&iwloc=A">View Larger Map</a>
 
-Devops Down Under will be held at the Atlassian offices, located at: 
+Devops Down Under 2011 will be held at the <a href="http://www.saxons.com.au/">Saxons Training Facility</a>, located at:
 
 <blockquote class="address">
   <pre>
-    173-185 Sussex Street,
-    Sydney, New South Wales
-    2000 Australia
+    8/500-514 Collins Street,
+    Melbourne, Victoria
+    3000, Australia
   </pre>
-</div>
+</blockquote>
