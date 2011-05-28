@@ -11,7 +11,7 @@ end
 desc "build site"
 task :build do 
   unless system("jekyll")
-    puts "jekyl failed, maybe it isn't installed"
+    puts "jekyll failed, maybe it isn't installed"
   end
 end
 
