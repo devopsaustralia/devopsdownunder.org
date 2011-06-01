@@ -36,7 +36,7 @@ Programme
                 </div>
                 <div class="presenter">Robert Postill</div>
                 <div class="title">
-                    <a href="#LeniMayo">Feature flipping and heroku-style deployment at learnable.com</a>
+                    <a href="#LeniMayo">Feature flipping and Heroku-style deployment at learnable.com</a>
                 </div>
                 <div class="presenter">Leni Mayo</div>
             </div>
@@ -56,7 +56,7 @@ Programme
                 </div>
                 <div class="presenter">Nish Mahanty</div>
                 <div class="title">
-                    <a href="#DavidJoyce">Smoothing the Flow from Development to Delivery using Kanban</a>
+                    <a href="#DavidJoyce">Smoothing the flow from development to delivery using Kanban</a>
                 </div>
                 <div class="presenter">David Joyce</div>
             </div>
@@ -68,7 +68,7 @@ Programme
                 </div>
                 <div class="presenter">Garrett Honeycutt</div>
                 <div class="title">
-                    <a href="#WadeMillican">Downtime, Stateful Systems, and using Clouds to stop rain on your parade</a>
+                    <a href="#WadeMillican">Downtime, stateful systems, and using clouds to stop rain on your parade</a>
                 </div>
                 <div class="presenter">Wade Millican</div>
             </div>
@@ -133,7 +133,7 @@ TBC
 
 
 <div id="DavidJoyce">David Joyce</div>
-Smoothing the Flow from Development to Delivery using Kanban
+Smoothing the flow from development to delivery using Kanban
 ---------
 **David Joyce** - ThoughtWorks
 
@@ -183,7 +183,7 @@ This talk is part discussion of our state of the art and part discussion of how 
 
 
 <div id="LeniMayo"></div>
-Feature flipping and heroku-style deployment at learnable.com
+Feature flipping and Heroku-style deployment at learnable.com
 ---------
 **Leni Mayo** - [learnable.com](http://learnable.com)
 
@@ -215,7 +215,7 @@ The goal of this presentation is to discuss how Puppet fits in and interacts wit
 
 
 <div id="WadeMillican"></div>
-Downtime, Stateful Systems, and using Clouds to stop rain on your parade
+Downtime, stateful systems, and using clouds to stop rain on your parade
 ---------
 **Wade Millican** - Ninefold
 
