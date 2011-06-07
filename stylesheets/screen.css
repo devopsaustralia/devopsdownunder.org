@@ -64,6 +64,8 @@ div#sponsors {
   width: 740px;
   margin: auto;
   clear: both;
+  text-align: center;
+  padding: 20px;
 }
 
 div#sponsors img {
