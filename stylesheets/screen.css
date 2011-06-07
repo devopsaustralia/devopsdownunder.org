@@ -157,7 +157,7 @@ table#schedule {
 
 table#schedule th,
 table#schedule td {
-  padding: 4px;
+  padding: 8px;
   text-align: left;
 }
 
@@ -183,6 +183,7 @@ table#schedule td.end {
 table#schedule td.talk,
 table#schedule td.openspace {
   background-color: #fceae2;
+  height:           144px;
 }
 
 table#schedule td.talk div.title {
