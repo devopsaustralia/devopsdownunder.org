@@ -61,15 +61,25 @@ div#footer {
 }
 
 div#sponsors {
+  clear: both;
+}
+
+div.sponsors {
   width: 740px;
   margin: auto;
   clear: both;
   text-align: center;
-  padding: 20px;
+  padding: 16px;
 }
 
-div#sponsors img {
-  padding-right: 8px;
+div.sponsors img {
+  padding: 4px;
+}
+
+div#sponsors h3.sponsors.title {
+  text-align:    center;
+  margin-bottom: 0;
+  margin-top:    16px;
 }
 
 div#content div.intro {
