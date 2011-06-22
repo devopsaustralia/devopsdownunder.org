@@ -81,8 +81,8 @@ Programme
     </tr>
     <tr>
         <td class="times">1400 - 1730</td>
-        <td class="openspace">Open Space</td>
-        <td class="openspace">Open Space</td>
+        <td class="openspace"><a href="#OpenSpace">Open Space<a/></td>
+        <td class="openspace"><a href="#OpenSpace">Open Space<a/></td>
     </tr>
     <tr>
         <td class="times">1730 - late</td>
@@ -229,3 +229,18 @@ When you're down, it's too late. Minds go racing, adrenalin's flowing. It's not 
         <li>Blog: <a href="http://blog.wi.id.au">Blog of Wade - Making Connexions</a></li>
     </ul>
 </div>
+
+<div id="OpenSpace"></div>
+Open Space
+----------
+
+Open spaces are free form attendee driven sessions that run on both afternoons of the conference. They're
+a venue for attendees to share ideas, demo tools, and trade war stories.
+
+On the day, conference attendees will be invited to write down their session ideas on an index card,
+and will have 15 seconds to spruik the idea in front of everyone. Attendees will vote on which sessions
+they want to see, and sessions will be assigned to break out rooms.
+
+The best open space sessions have a small amount of preparation done before hand, but spontaneous session
+ideas organised on the day always yield surprisingly awesome results.
+
