@@ -97,21 +97,21 @@ Programme
 
 
 Speakers + Talks
-=========
+================
 
 
 <div id="JasonYip"></div>
 Kanban for IT Operations
----------
-**Jason Yip** - ThoughtWorks
+------------------------
+**Jason Yip** - [ThoughtWorks](http://thoughtworks.com/)
 
 IT operation is more than than just deployments.  This talk is about using principles and techniques from Kanban to help visualise, measure, and improve IT operations.
 
 <div class="bio">
     <ul class="meta">
-        <li>Linked in: <a href="http://au.linkedin.com/in/jasonyip">Jason Yip</a></li>
-        <li>Blog: <a href="http://jchyip.blogspot.com/">jchyip.blogspot.com</a></li>
+        <li>LinkedIn: <a href="http://au.linkedin.com/in/jasonyip">Jason Yip</a></li>
         <li>Twitter: <a href="http://twitter.com/jchyip">@jchyip</a></li>
+        <li>Blog: <a href="http://jchyip.blogspot.com/">jchyip.blogspot.com</a></li>
     </ul>
 </div>
 
@@ -119,23 +119,23 @@ IT operation is more than than just deployments.  This talk is about using princ
 <div id="NishMahanty"></div>
 TBC
 ---------
-**Nish Mahanty** - MYOB
+**Nish Mahanty** - [MYOB](http://myob.com.au/)
 
 TBC
 
 <div class="bio">
     <ul class="meta">
-        <li>Linked in: <a href="http://au.linkedin.com/in/nishithmahanty">Nish Mahanty</a></li>
-        <li>Blog: <a href="http://posterous.com/people/4SykxhIg3GGB">Nish Mahanty</a></li>
+        <li>LinkedIn: <a href="http://au.linkedin.com/in/nishithmahanty">Nish Mahanty</a></li>
         <li>Twitter: <a href="http://twitter.com/nishmahanty">@nishmahanty</a></li>
+        <li>Blog: <a href="http://posterous.com/people/4SykxhIg3GGB">Nish Mahanty</a></li>
     </ul>
 </div>
 
 
-<div id="DavidJoyce">David Joyce</div>
+<div id="DavidJoyce"></div>
 Smoothing the flow from development to delivery using Kanban
 ---------
-**David Joyce** - ThoughtWorks
+**David Joyce** - [ThoughtWorks](http://thoughtworks.com/)
 
 Part one of this talk provides an introduction to Kanban covering the Kanban method, the goals of Kanban, and how Kanban provides for an evolutionary approach to improvement.
 
@@ -158,9 +158,9 @@ The experience reports will show empirical evidence that teams using Kanban have
         David currently works for Thoughtworks as a Principal Consultant and is a Systems Thinker, Lean practitioner, Kanban coach and certified Scrum Master. He recently received the Lean SSC Brickell Key award for outstanding achievement and leadership.
     </p>
     <ul class="meta">
-        <li>Linked in: <a href="http://uk.linkedin.com/in/dpjoyce">David Joyce</a></li>
-        <li>Blog: <a href="http://leanandkanban.wordpress.com/">Systems Thinking, Lean and Kanban</a></li>
+        <li>LinkedIn: <a href="http://uk.linkedin.com/in/dpjoyce">David Joyce</a></li>
         <li>Twitter: <a href="http://twitter.com/dpjoyce">@dpjoyce</a></li>
+        <li>Blog: <a href="http://leanandkanban.wordpress.com/">Systems Thinking, Lean and Kanban</a></li>
     </ul>
 </div>
 
@@ -168,7 +168,7 @@ The experience reports will show empirical evidence that teams using Kanban have
 <div id="RobertPostill"></div>
 Sprinkling DevOps Magic In Other People's Environments
 ---------
-**Robert Postill** - C3 business solutions
+**Robert Postill** - [C3 business solutions](http://www.c3businesssolutions.com/)
 
 Description: Many Devops shops work with VMs in clouds or data centres they have ownership of (or at least have put money into).  If there's a problem then the control those Devops shops exert can help them recover, rollback and redeploy.   We don't, we ship virtual appliances with a Ruby on Rails application  to customers.  This presents some particular problems.  For instance performance discussions are much more difficult if you're telling someone their infrastructure is a problem.
 
@@ -176,8 +176,9 @@ This talk is part discussion of our state of the art and part discussion of how 
 
 <div class="bio">
     <ul class="meta">
-        <li>Linked in: <a href="http://www.linkedin.com/in/robertpostill">Robert Postill</a></li>
+        <li>LinkedIn: <a href="http://www.linkedin.com/in/robertpostill">Robert Postill</a></li>
         <li>Twitter: <a href="http://twitter.com/robertpostill">@robertpostill</a></li>
+        <li>Blog: <a href="http://www.grinning-cat.com/">Grinning Cat</a></li>
     </ul>
 </div>
 
@@ -193,7 +194,7 @@ The talk explores a related concept - feature flipping - a scheme for turning ap
 
 <div class="bio">
     <ul class="meta">
-        <li>Linked in: <a href="http://www.linkedin.com/in/lenimayo">Leni Mayo</a></li>
+        <li>LinkedIn: <a href="http://www.linkedin.com/in/lenimayo">Leni Mayo</a></li>
         <li>Twitter: <a href="http://twitter.com/lenidot">@lenidot</a></li>
     </ul>
 </div>
@@ -202,13 +203,13 @@ The talk explores a related concept - feature flipping - a scheme for turning ap
 <div id="GarrettHoneycutt"></div>
 How Puppet fits into the larger ecosystem
 ---------
-**Garrett Honeycutt** - Puppet Labs
+**Garrett Honeycutt** - [Puppet Labs](http://puppetlabs.com/)
 
 The goal of this presentation is to discuss how Puppet fits in and interacts with the rest of your infrastructure and to share best practices learned. We may begin with an overview of Puppet and how it works and then move on to to cover provisioning, software repository management, disposable architecture, self identifying systems, and change management techniques.
 
 <div class="bio">
     <ul class="meta">
-        <li>Linked in: <a href="http://www.linkedin.com/in/garretthoneycutt">Garrett Honeycutt</a></li>
+        <li>LinkedIn: <a href="http://www.linkedin.com/in/garretthoneycutt">Garrett Honeycutt</a></li>
         <li>Blog: <a href="http://garretthoneycutt.com/">garretthoneycutt.com</a></li>
     </ul>
 </div>
@@ -217,13 +218,14 @@ The goal of this presentation is to discuss how Puppet fits in and interacts wit
 <div id="WadeMillican"></div>
 Downtime, stateful systems, and using clouds to stop rain on your parade
 ---------
-**Wade Millican** - Ninefold
+**Wade Millican** - [Ninefold](http://ninefold.com.au/)
 
 When you're down, it's too late. Minds go racing, adrenalin's flowing. It's not an 'if' but 'when'. How have you prepared for this event? Do you even know you're down until you get the call? Could you use Cloud Bursting to sit ahead of an outage, or mitigate client/customer impact? We'll start in the trenches and end up in the clouds. Let's all fly the friendly skies.
 
 <div class="bio">
     <ul class="meta">
-        <li>Blog: <a href="http://blog.wi.id.au">Blog of Wade Making Connexions</a></li>
+        <li>LinkedIn: <a href="http://www.linkedin.com/profile/view?id=5585896">Wade Millican</a></li>
         <li>Twitter: <a href="http://twitter.com/wadeis">@wadeis</a></li>
+        <li>Blog: <a href="http://blog.wi.id.au">Blog of Wade - Making Connexions</a></li>
     </ul>
 </div>
