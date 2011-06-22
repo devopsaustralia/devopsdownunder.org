@@ -134,6 +134,10 @@ h1, h2, h3, h4 {
   margin-bottom: 12px;
 }
 
+h2 {
+  margin-top: 48px;
+}
+
 div.column {
   float: left;
 }
