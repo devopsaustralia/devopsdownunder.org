@@ -56,9 +56,9 @@ Programme
                 </div>
                 <div class="presenter">Nish Mahanty</div>
                 <div class="title">
-                    <a href="#DavidJoyceJasonYipPatrickDeboisTBD">Panel Q&A: Lean and Kanban for DevOps</a>
+                    <a href="#DavidJoyceJasonYipPatrickDeboisJamesWilson">Panel discussion - How do I sell Lean and Kanban to my boss, and how do I get started?</a>
                 </div>
-                <div class="presenter">David Joyce, Jason Yip, Patrick Debois, TBD</div>
+                <div class="presenter">Patrick Debois, James Wilson, David Joyce, Jason Yip</div>
             </div>
         </td>
         <td class="talk">
@@ -132,27 +132,34 @@ TBC
 </div>
 
 
-<div id="DavidJoyceJasonYipPatrickDeboisTBD"></div>
+<div id="DavidJoyceJasonYipPatrickDeboisJamesWilson"></div>
 
-Lean and Kanban for DevOps
+Panel discussion - How do I sell Lean and Kanban to my boss, and how do I get started?
 ---------
-**David Joyce, Jason Yip, Patrick Debois, TBD**
+**Patrick Debois**, **James Wilson** - REA, **David Joyce** - ThoughtWorks, **Jason Yip** - ThoughtWorks
 
-This is your chance to pose questions to our expert panel on anything
-relating to Lean and Kanban within your development and operations
-organizations.
+This is your chance to pose questions to our expert Lean and 
+Kanban panel. Want to know why you should care about Lean and Kanban, how to
+help it gain traction within your organization and how to start
+implementing the ideas and philosophies behind the buzzwords? There's no
+better opportunity than this! 
 
 <div class="bio">
   <ul class="meta">
-    <li>Linked in: <a href="http://au.linkedin.com/in/jasonyip">Jason Yip</a></li>
-    <li>Blog: <a href="http://jchyip.blogspot.com/">jchyip.blogspot.com</a></li>
-    <li>Twitter: <a href="http://twitter.com/jchyip">@jchyip</a></li>
+    <li>Linked in: <a href="ttp://au.linkedin.com/in/jamesrwilson77">James Wilson</a></li>
+    <li>Blog: <a href="http://jameswilson.me/">http://jameswilson.me</a></li>
+    <li>Twitter: <a href="http://twitter.com/jrwils">@jrwils</a></li>
   </ul> 
   <ul class="meta">
     <li>Linked in: <a href="http://au.linkedin.com/in/jasonyip">Jason Yip</a></li>
     <li>Blog: <a href="http://jchyip.blogspot.com/">jchyip.blogspot.com</a></li>
     <li>Twitter: <a href="http://twitter.com/jchyip">@jchyip</a></li>
   </ul> 
+  <ul class="meta">
+    <li>Linked in: <a href="http://uk.linkedin.com/in/dpjoyce">David Joyce</a></li>
+    <li>Blog: <a href="http://leanandkanban.wordpress.com/">http://leanandkanban.wordpress.com</a></li>
+    <li>Twitter: <a href="http://twitter.com/dpjoyce">@dpjoyce</a></li>
+  </ul>
 </div>
 
 
