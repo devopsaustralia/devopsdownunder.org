@@ -141,6 +141,8 @@ h2 {
 
 div.column {
   float: left;
+  margin-top:    8px;
+  margin-bottom: 24px;
 }
 
 div.column.copy {
