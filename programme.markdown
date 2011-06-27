@@ -56,9 +56,9 @@ Programme
                 </div>
                 <div class="presenter">Nish Mahanty</div>
                 <div class="title">
-                    <a href="#DavidJoyce">Smoothing the flow from development to delivery using Kanban</a>
+                    <a href="#DavidJoyceJasonYipPatrickDeboisJamesWilson">Panel discussion - How do I sell Lean and Kanban to my boss, and how do I get started?</a>
                 </div>
-                <div class="presenter">David Joyce</div>
+                <div class="presenter">Patrick Debois, James Wilson, David Joyce, Jason Yip</div>
             </div>
         </td>
         <td class="talk">
@@ -132,36 +132,32 @@ TBC
 </div>
 
 
-<div id="DavidJoyce"></div>
-Smoothing the flow from development to delivery using Kanban
+Panel discussion - How do I sell Lean and Kanban to my boss, and how do I get started?
 ---------
-**David Joyce** - [ThoughtWorks](http://thoughtworks.com/)
+**Patrick Debois**, **James Wilson** - REA, **David Joyce** - ThoughtWorks, **Jason Yip** - ThoughtWorks
 
-Part one of this talk provides an introduction to Kanban covering the Kanban method, the goals of Kanban, and how Kanban provides for an evolutionary approach to improvement.
-
-Part two of this talk revolves around a series of experience reports following the introduction of Kanban at the BBC in mid 2008.
-
-After Kanban principles were applied in a single product team, Kanban "flu" spread to teams doing legacy application support, fixed delivery projects, product development, SAP development, creative design, and a commercial off the shelf (COTS) implementation.
-
-The "flu" also escaped the borders of development and was embraced by those within Operations resulting in cross functional collaboration between development and operations teams, who working together improved the end to end times to deliver software to BBC customers.
-
-The experience reports will show empirical evidence that teams using Kanban have achieved high levels of maturity and have done so within time frames hitherto unreported. It will also show how Kanban sets an expectation of flow, provides improved predictability and business agility, and enables a kaizen culture (continuous improvement driven from the shop floor) via bottleneck management, waste reduction and variability reduction, thus enabling teams involved in the whole value stream to collaboratively visualise and implement improvements
+This is your chance to pose questions to our expert Lean and
+Kanban panel. Want to know why you should care about Lean and Kanban, how to
+help it gain traction within your organization and how to start
+implementing the ideas and philosophies behind the buzzwords? There's no
+better opportunity than this!
 
 <div class="bio">
-    <p>
-        David Joyce is a Lean and Agile coach with 12 years technical team management and coaching experience, and 20 years software development experience.
-    </p>
-    <p>
-        In recent years, using Scrum and XP, David has coached both onshore and offshore delivery teams, and has successfully launched an internet video startup from inception to launch. More recently David has coached teams on Agile, Lean, Kanban and Systems Thinking at BBC Worldwide in the UK.
-    </p>
-    <p>
-        David currently works for Thoughtworks as a Principal Consultant and is a Systems Thinker, Lean practitioner, Kanban coach and certified Scrum Master. He recently received the Lean SSC Brickell Key award for outstanding achievement and leadership.
-    </p>
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://uk.linkedin.com/in/dpjoyce">David Joyce</a></li>
-        <li>Twitter: <a href="http://twitter.com/dpjoyce">@dpjoyce</a></li>
-        <li>Blog: <a href="http://leanandkanban.wordpress.com/">Systems Thinking, Lean and Kanban</a></li>
-    </ul>
+  <ul class="meta">
+    <li>Linked in: <a href="ttp://au.linkedin.com/in/jamesrwilson77">James Wilson</a></li>
+    <li>Blog: <a href="http://jameswilson.me/">http://jameswilson.me</a></li>
+    <li>Twitter: <a href="http://twitter.com/jrwils">@jrwils</a></li>
+  </ul>
+  <ul class="meta">
+    <li>Linked in: <a href="http://au.linkedin.com/in/jasonyip">Jason Yip</a></li>
+    <li>Blog: <a href="http://jchyip.blogspot.com/">jchyip.blogspot.com</a></li>
+    <li>Twitter: <a href="http://twitter.com/jchyip">@jchyip</a></li>
+  </ul>
+  <ul class="meta">
+    <li>Linked in: <a href="http://uk.linkedin.com/in/dpjoyce">David Joyce</a></li>
+    <li>Blog: <a href="http://leanandkanban.wordpress.com/">http://leanandkanban.wordpress.com</a></li>
+    <li>Twitter: <a href="http://twitter.com/dpjoyce">@dpjoyce</a></li>
+  </ul>
 </div>
 
 
