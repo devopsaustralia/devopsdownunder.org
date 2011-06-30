@@ -24,7 +24,7 @@ div#header a:hover img {
 }
 
 div#content div.intro {
-  background-color: #072836;
+  background-color: #333;
   color: white;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
