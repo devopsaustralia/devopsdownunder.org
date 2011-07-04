@@ -52,7 +52,7 @@ Programme
         <td class="talk">
             <div class="talks">
                 <div class="title">
-                    <a href="#NishMahanty">TBC</a>
+                    <a href="#NishMahanty">Building high-performing teams (to deliver awesome business outcomes)</a>
                 </div>
                 <div class="presenter">Nish Mahanty</div>
                 <div class="title">
@@ -117,11 +117,15 @@ IT operation is more than than just deployments.  This talk is about using princ
 
 
 <div id="NishMahanty"></div>
-TBC
+Building high-performing teams (to deliver awesome business outcomes)
 ---------
 **Nish Mahanty** - [MYOB](http://myob.com.au/)
 
-TBC
+DevOps is a about culture change. It requires people and teams to work
+together to remove inefficiencies and deliver great business outcomes.
+This talk focusses on the practicalities of building a high-performing
+team. It includes practical tips on motivation, hiring, and team
+building across distributed teams.
 
 <div class="bio">
     <ul class="meta">
