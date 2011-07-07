@@ -81,8 +81,17 @@ Programme
     </tr>
     <tr>
         <td class="times">1400 - 1730</td>
-        <td class="openspace">Open Space</td>
-        <td class="openspace">Open Space</td>
+        <td colspan="2" class="openspace">
+			<div class="title">Open Spaces</div>
+			<div class="sub-title">Sessions to include....</div>
+			<ul>
+				<li>REA's hybrid cloud strategy - live demo of environment provisioning to EC2 (Colin Panisset)</li>
+				<li>DevOps in the trenches (Daniel Hall + others)</li>
+				<li>Taking Kanban global - our experience rolling out Kanban to our international markets (Matthew Jones)</li>
+				<li>DevOps the Google Way (Paul Cowan)</li>
+				<li>Continuous Delivery in Ruby (Brian Guthrie)</li>
+			</ul>
+		</div>
     </tr>
     <tr>
         <td class="times">1730 - late</td>
@@ -90,10 +99,6 @@ Programme
         <td class="end">Conference close</td>
     </tr>
 </table>
-
-
-
-
 
 
 Speakers + Talks
