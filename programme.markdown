@@ -92,10 +92,6 @@ Programme
 </table>
 
 
-
-
-
-
 Speakers + Talks
 ================
 

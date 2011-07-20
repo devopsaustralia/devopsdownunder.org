@@ -209,8 +209,19 @@ table#schedule td.talk div.talks {
 }
 
 table#schedule td.openspace {
-  padding: 16px 4px;
+  padding: 8px;
 }
+
+table#schedule td.openspace div.sub-title {
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+table#schedule td.openspace ul {
+	padding: 12px;
+	font-size: 12px;
+}
+
 
 
 div.bio {
