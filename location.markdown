@@ -21,7 +21,7 @@ The Devops Down Under social event will be held at the <a href="http://www.theap
   </pre>
 </blockquote>
 
-The event starts at 18.30.
+The event starts at 18.30. Attendees are required to present their badges.
 
 Conference
 ----------
