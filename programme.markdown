@@ -21,7 +21,9 @@ Programme
         <td class="times">0930 - 1100</td>
         <td class="talk">
             <div class="talks">
-                <div class="title">Keynote</div>
+                <div class="title">
+                    <a href="#PatrickDebois">Keynote</a>
+                </div>
                 <div class="presenter">Patrick Debois</div>
                 <div class="title">
                     <a href="#JasonYip">Kanban for IT Operations</a>
@@ -95,6 +97,21 @@ Programme
 Speakers + Talks
 ================
 
+<div id="PatrickDebois"></div>
+Keynote
+------------------------
+**Patrick Debois** - [Jedi BVDA](http://www.jedi.be/)
+
+<iframe src="http://player.vimeo.com/video/28291845?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
+
+<div class="bio">
+    <ul class="meta">
+        <li>LinkedIn: <a href="http://www.linkedin.com/in/patrickdebois">Patrick Debois</a></li>
+        <li>Twitter: <a href="http://twitter.com/patrickdebois">@patrickdebois</a></li>
+        <li>Blog: <a href="http://www.jedi.be/blog/">www.jedi.be/blog</a></li>
+    </ul>
+</div>
+
 
 <div id="JasonYip"></div>
 Kanban for IT Operations
@@ -102,6 +119,8 @@ Kanban for IT Operations
 **Jason Yip** - [ThoughtWorks](http://thoughtworks.com/)
 
 IT operation is more than than just deployments.  This talk is about using principles and techniques from Kanban to help visualise, measure, and improve IT operations.
+
+<iframe src="http://player.vimeo.com/video/27931770?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
 
 <div class="bio">
     <ul class="meta">
@@ -123,6 +142,8 @@ This talk focusses on the practicalities of building a high-performing
 team. It includes practical tips on motivation, hiring, and team
 building across distributed teams.
 
+<iframe src="http://player.vimeo.com/video/28001362?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
+
 <div class="bio">
     <ul class="meta">
         <li>LinkedIn: <a href="http://au.linkedin.com/in/nishithmahanty">Nish Mahanty</a></li>
@@ -141,6 +162,8 @@ Kanban panel. Want to know why you should care about Lean and Kanban, how to
 help it gain traction within your organization and how to start
 implementing the ideas and philosophies behind the buzzwords? There's no
 better opportunity than this!
+
+<iframe src="http://player.vimeo.com/video/27613690?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
 
 <div class="bio">
   <ul class="meta">
@@ -170,6 +193,8 @@ Description: Many Devops shops work with VMs in clouds or data centres they have
 
 This talk is part discussion of our state of the art and part discussion of how we got to where we are.   It should appeal to DevOps leads and architects who are looking to use DevOps techniques to manage systems that aren't in their direct control.  In order to get ourselves in order we use a combination of tools like chef and New Relic to deploy, maintain and monitor our environment. We're not sure if we're doing it right but it sure beats trying to make operations playbooks :)
 
+<iframe src="http://player.vimeo.com/video/27922221?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
+
 <div class="bio">
     <ul class="meta">
         <li>LinkedIn: <a href="http://www.linkedin.com/in/robertpostill">Robert Postill</a></li>
@@ -188,6 +213,8 @@ At [learnable.com](http://learnable.com), "git push" triggers deployment to the 
 
 The talk explores a related concept - feature flipping - a scheme for turning application features on and off at runtime.  The implementation, use, and practical business benefits of feature flipping are discussed.
 
+<iframe src="http://player.vimeo.com/video/27643817?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
+
 <div class="bio">
     <ul class="meta">
         <li>LinkedIn: <a href="http://www.linkedin.com/in/lenimayo">Leni Mayo</a></li>
@@ -203,6 +230,8 @@ How Puppet fits into the larger ecosystem
 
 The goal of this presentation is to discuss how Puppet fits in and interacts with the rest of your infrastructure and to share best practices learned. We may begin with an overview of Puppet and how it works and then move on to to cover provisioning, software repository management, disposable architecture, self identifying systems, and change management techniques.
 
+<iframe src="http://player.vimeo.com/video/27709632?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
+
 <div class="bio">
     <ul class="meta">
         <li>LinkedIn: <a href="http://www.linkedin.com/in/garretthoneycutt">Garrett Honeycutt</a></li>
@@ -217,6 +246,8 @@ Downtime, stateful systems, and using clouds to stop rain on your parade
 **Wade Millican** - [Ninefold](http://ninefold.com.au/)
 
 When you're down, it's too late. Minds go racing, adrenalin's flowing. It's not an 'if' but 'when'. How have you prepared for this event? Do you even know you're down until you get the call? Could you use Cloud Bursting to sit ahead of an outage, or mitigate client/customer impact? We'll start in the trenches and end up in the clouds. Let's all fly the friendly skies.
+
+<iframe src="http://player.vimeo.com/video/27640194?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe><p><a href="http://vimeo.com/27640194">Devops Downunder - Wade Millican</a> from <a href="http://vimeo.com/devopsdownunder">DevOps Down Under</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 <div class="bio">
     <ul class="meta">
