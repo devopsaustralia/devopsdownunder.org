@@ -9,8 +9,8 @@ Programme
 <table id="schedule">
     <tr>
         <td class="times"></td>
+        <th>Thursday</th>
         <th>Friday</th>
-        <th>Saturday</th>
     </tr>
     <tr>
         <td class="times">0900 - 0930</td>
@@ -22,25 +22,25 @@ Programme
         <td class="talk">
             <div class="talks">
                 <div class="title">
-                    <a href="#PatrickDebois">Keynote</a>
+                    Keynote
                 </div>
-                <div class="presenter">Patrick Debois</div>
+                <div class="presenter">TBA</div>
                 <div class="title">
-                    <a href="#JasonYip">Kanban for IT Operations</a>
+                    Talk
                 </div>
-                <div class="presenter">Jason Yip</div>
+                <div class="presenter">TBA</div>
             </div>
         </td>
         <td class="talk">
             <div class="talks">
                 <div class="title">
-                    <a href="#RobertPostill">Sprinkling DevOps Magic In Other People's Environments</a>
+                    Talk
                 </div>
-                <div class="presenter">Robert Postill</div>
+                <div class="presenter">TBA</div>
                 <div class="title">
-                    <a href="#LeniMayo">Feature flipping and Heroku-style deployment at learnable.com</a>
+                    Talk
                 </div>
-                <div class="presenter">Leni Mayo</div>
+                <div class="presenter">TBA</div>
             </div>
         </td>
     </tr>
@@ -54,25 +54,25 @@ Programme
         <td class="talk">
             <div class="talks">
                 <div class="title">
-                    <a href="#NishMahanty">Building high-performing teams (to deliver awesome business outcomes)</a>
+                    Talk
                 </div>
-                <div class="presenter">Nish Mahanty</div>
+                <div class="presenter">TBA</div>
                 <div class="title">
-                    <a href="#DavidJoyceJasonYipPatrickDeboisJamesWilson">Panel discussion - How do I sell Lean and Kanban to my boss, and how do I get started?</a>
+                    Talk
                 </div>
-                <div class="presenter">Patrick Debois, James Wilson, David Joyce, Jason Yip</div>
+                <div class="presenter">TBA</div>
             </div>
         </td>
         <td class="talk">
             <div class="talks">
                 <div class="title">
-                    <a href="#GarrettHoneycutt">How Puppet fits into the larger ecosystem</a>
+                    Talk
                 </div>
-                <div class="presenter">Garrett Honeycutt</div>
+                <div class="presenter">TBA</div>
                 <div class="title">
-                    <a href="#WadeMillican">Downtime, stateful systems, and using clouds to stop rain on your parade</a>
+                    Talk
                 </div>
-                <div class="presenter">Wade Millican</div>
+                <div class="presenter">TBA</div>
             </div>
         </td>
     </tr>
@@ -93,169 +93,30 @@ Programme
     </tr>
 </table>
 
+Call For Participation
+======================
 
-Speakers + Talks
-================
+The call for participation for DevOps Down Under 2012 [is open](/participate)!
 
-<div id="PatrickDebois"></div>
-Keynote
-------------------------
-**Patrick Debois** - [Jedi BVDA](http://www.jedi.be/)
+Speakers are the lifeblood of the conference. They set the agenda for what people
+are talking about during the corridors during the breaks, and plants the seeds for
+discussion during the Open Spaces.
 
-<iframe src="http://player.vimeo.com/video/28291845?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
+You could be part of the elite few who speak on the main conference programme!
 
-<div class="bio">
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://www.linkedin.com/in/patrickdebois">Patrick Debois</a></li>
-        <li>Twitter: <a href="http://twitter.com/patrickdebois">@patrickdebois</a></li>
-        <li>Blog: <a href="http://www.jedi.be/blog/">www.jedi.be/blog</a></li>
-    </ul>
-</div>
+If you have an awesome story to tell about:
 
+ * How you or your organisation has broken the wall between Dev and Ops,
+ * A tool you've written to reduce friction when testing/deploying/monitoring,
+ * How DevOps applies to non IT-focused industries,
+ * Adapting techniques and methodologies from other disciplines in your organisation,
+ * Scaling a web infrastructure through awesome tools and team collaboration,
+ * Building a business with small cross-functional teams,
+ * Or something DevOps related that's new and innovative
 
-<div id="JasonYip"></div>
-Kanban for IT Operations
-------------------------
-**Jason Yip** - [ThoughtWorks](http://thoughtworks.com/)
+...you should [submit a talk](/participate)!
 
-IT operation is more than than just deployments.  This talk is about using principles and techniques from Kanban to help visualise, measure, and improve IT operations.
-
-<iframe src="http://player.vimeo.com/video/27931770?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
-
-<div class="bio">
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://au.linkedin.com/in/jasonyip">Jason Yip</a></li>
-        <li>Twitter: <a href="http://twitter.com/jchyip">@jchyip</a></li>
-        <li>Blog: <a href="http://jchyip.blogspot.com/">jchyip.blogspot.com</a></li>
-    </ul>
-</div>
-
-
-<div id="NishMahanty"></div>
-Building high-performing teams (to deliver awesome business outcomes)
----------
-**Nish Mahanty** - [MYOB](http://myob.com.au/)
-
-DevOps is a about culture change. It requires people and teams to work
-together to remove inefficiencies and deliver great business outcomes.
-This talk focusses on the practicalities of building a high-performing
-team. It includes practical tips on motivation, hiring, and team
-building across distributed teams.
-
-<iframe src="http://player.vimeo.com/video/28001362?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
-
-<div class="bio">
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://au.linkedin.com/in/nishithmahanty">Nish Mahanty</a></li>
-        <li>Twitter: <a href="http://twitter.com/nishmahanty">@nishmahanty</a></li>
-        <li>Blog: <a href="http://posterous.com/people/4SykxhIg3GGB">Nish Mahanty</a></li>
-    </ul>
-</div>
-
-
-Panel discussion - How do I sell Lean and Kanban to my boss, and how do I get started?
----------
-**Patrick Debois**, **James Wilson** - REA, **David Joyce** - ThoughtWorks, **Jason Yip** - ThoughtWorks
-
-This is your chance to pose questions to our expert Lean and
-Kanban panel. Want to know why you should care about Lean and Kanban, how to
-help it gain traction within your organization and how to start
-implementing the ideas and philosophies behind the buzzwords? There's no
-better opportunity than this!
-
-<iframe src="http://player.vimeo.com/video/27613690?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
-
-<div class="bio">
-  <ul class="meta">
-    <li>Linked in: <a href="ttp://au.linkedin.com/in/jamesrwilson77">James Wilson</a></li>
-    <li>Blog: <a href="http://jameswilson.me/">http://jameswilson.me</a></li>
-    <li>Twitter: <a href="http://twitter.com/jrwils">@jrwils</a></li>
-  </ul>
-  <ul class="meta">
-    <li>Linked in: <a href="http://au.linkedin.com/in/jasonyip">Jason Yip</a></li>
-    <li>Blog: <a href="http://jchyip.blogspot.com/">jchyip.blogspot.com</a></li>
-    <li>Twitter: <a href="http://twitter.com/jchyip">@jchyip</a></li>
-  </ul>
-  <ul class="meta">
-    <li>Linked in: <a href="http://uk.linkedin.com/in/dpjoyce">David Joyce</a></li>
-    <li>Blog: <a href="http://leanandkanban.wordpress.com/">http://leanandkanban.wordpress.com</a></li>
-    <li>Twitter: <a href="http://twitter.com/dpjoyce">@dpjoyce</a></li>
-  </ul>
-</div>
-
-
-<div id="RobertPostill"></div>
-Sprinkling DevOps Magic In Other People's Environments
----------
-**Robert Postill** - [C3 business solutions](http://www.c3businesssolutions.com/)
-
-Description: Many Devops shops work with VMs in clouds or data centres they have ownership of (or at least have put money into).  If there's a problem then the control those Devops shops exert can help them recover, rollback and redeploy.   We don't, we ship virtual appliances with a Ruby on Rails application  to customers.  This presents some particular problems.  For instance performance discussions are much more difficult if you're telling someone their infrastructure is a problem.
-
-This talk is part discussion of our state of the art and part discussion of how we got to where we are.   It should appeal to DevOps leads and architects who are looking to use DevOps techniques to manage systems that aren't in their direct control.  In order to get ourselves in order we use a combination of tools like chef and New Relic to deploy, maintain and monitor our environment. We're not sure if we're doing it right but it sure beats trying to make operations playbooks :)
-
-<iframe src="http://player.vimeo.com/video/27922221?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
-
-<div class="bio">
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://www.linkedin.com/in/robertpostill">Robert Postill</a></li>
-        <li>Twitter: <a href="http://twitter.com/robertpostill">@robertpostill</a></li>
-        <li>Blog: <a href="http://www.grinning-cat.com/">Grinning Cat</a></li>
-    </ul>
-</div>
-
-
-<div id="LeniMayo"></div>
-Feature flipping and Heroku-style deployment at learnable.com
----------
-**Leni Mayo** - [learnable.com](http://learnable.com)
-
-At [learnable.com](http://learnable.com), "git push" triggers deployment to the production learnable.com.  This talk explores how a simple setup can support the continuous integration and deployment needs of a small startup.
-
-The talk explores a related concept - feature flipping - a scheme for turning application features on and off at runtime.  The implementation, use, and practical business benefits of feature flipping are discussed.
-
-<iframe src="http://player.vimeo.com/video/27643817?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
-
-<div class="bio">
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://www.linkedin.com/in/lenimayo">Leni Mayo</a></li>
-        <li>Twitter: <a href="http://twitter.com/lenidot">@lenidot</a></li>
-    </ul>
-</div>
-
-
-<div id="GarrettHoneycutt"></div>
-How Puppet fits into the larger ecosystem
----------
-**Garrett Honeycutt** - [Puppet Labs](http://puppetlabs.com/)
-
-The goal of this presentation is to discuss how Puppet fits in and interacts with the rest of your infrastructure and to share best practices learned. We may begin with an overview of Puppet and how it works and then move on to to cover provisioning, software repository management, disposable architecture, self identifying systems, and change management techniques.
-
-<iframe src="http://player.vimeo.com/video/27709632?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
-
-<div class="bio">
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://www.linkedin.com/in/garretthoneycutt">Garrett Honeycutt</a></li>
-        <li>Blog: <a href="http://garretthoneycutt.com/">garretthoneycutt.com</a></li>
-    </ul>
-</div>
-
-
-<div id="WadeMillican"></div>
-Downtime, stateful systems, and using clouds to stop rain on your parade
----------
-**Wade Millican** - [Ninefold](http://ninefold.com.au/)
-
-When you're down, it's too late. Minds go racing, adrenalin's flowing. It's not an 'if' but 'when'. How have you prepared for this event? Do you even know you're down until you get the call? Could you use Cloud Bursting to sit ahead of an outage, or mitigate client/customer impact? We'll start in the trenches and end up in the clouds. Let's all fly the friendly skies.
-
-<iframe src="http://player.vimeo.com/video/27640194?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe><p><a href="http://vimeo.com/27640194">Devops Downunder - Wade Millican</a> from <a href="http://vimeo.com/devopsdownunder">DevOps Down Under</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
-
-<div class="bio">
-    <ul class="meta">
-        <li>LinkedIn: <a href="http://www.linkedin.com/profile/view?id=5585896">Wade Millican</a></li>
-        <li>Twitter: <a href="http://twitter.com/wadeis">@wadeis</a></li>
-        <li>Blog: <a href="http://blog.wi.id.au">Blog of Wade - Making Connexions</a></li>
-    </ul>
-</div>
+The Call For Participation closes on Monday the 18th of June.
 
 <div id="OpenSpace"></div>
 Open Space

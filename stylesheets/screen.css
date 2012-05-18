@@ -14,7 +14,7 @@ a img {
 /* structural */
 body {
   font-size: 16px;
-  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+  font-family: Trebuchet MS, sans-serif;
 }
 
 p {
@@ -77,6 +77,16 @@ div.sponsors img {
   padding: 4px;
 }
 
+div.sponsors.p1,
+div.sponsors.p2,
+div.sponsors.p3 {
+  display: none;
+}
+
+div.sponsors.other {
+  font-size: 90%;
+}
+
 div#sponsors h3.sponsors.title {
   text-align:    center;
   margin-bottom: 0;
@@ -102,10 +112,14 @@ div#content p.intro.call {
 div#dates {
   float: right;
   width: 300px;
-  font-size: 24px;
+  font-size: 28px;
   text-align: right;
   font-weight: bold;
   clear: both;
+}
+
+div#dates span.location {
+  font-size: 22px;
 }
 
 div#nav {
@@ -115,7 +129,7 @@ div#nav {
 }
 
 div#nav a {
-  padding: 8px 8px 48px;
+  padding: 8px 8px 24px;
   text-decoration: none;
   font-size: 18px;
 }
@@ -238,4 +252,9 @@ ul.meta {
 
 blockquote.address pre {
   font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+
+hr {
+  margin: 48px 0 36px;
+  border: 1px dashed #bdbdbd;
 }
