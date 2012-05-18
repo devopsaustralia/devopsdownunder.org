@@ -99,8 +99,8 @@ Call For Participation
 The call for participation for DevOps Down Under 2012 [is open](/participate)!
 
 Speakers are the lifeblood of the conference. They set the agenda for what people
-are talking about during the corridors during the breaks, and plants the seeds for
-discussion during the Open Spaces.
+are talking about in the corridors during the breaks, and plants the seeds for
+the Open Space discussions.
 
 You could be part of the elite few who speak on the main conference programme!
 
