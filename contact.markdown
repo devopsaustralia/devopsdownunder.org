@@ -12,8 +12,8 @@ Contact
 <!-- **In case of emergencies phone +61 432 768 089** -->
 
 Devops Down Under is organised by
-[Chris Bushell](http://www.anotherdeveloperblog.com/),
-[Natalie Drucker](http://www.linkedin.com/pub/natalie-drucker/2a/233/911), and
+Simone Diamond,
+[John Ferlito](http://inodes.org/),
 [Lindsay Holmwood](http://holmwood.id.au/~lindsay/).
 
 Interested in sponsoring the conference? Get in
