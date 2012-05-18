@@ -1,0 +1,32 @@
+a {
+  color: #1e9dd3;
+}
+
+a:visited {
+  color: #7d3f94;
+}
+
+div#header a:visited {
+  color: #1e9dd3;
+}
+
+div#header a:hover {
+  color: white;
+  background-color: #1e9dd3;
+}
+
+div#header a:hover:visited {
+  color: white;
+}
+
+div#header a:hover img {
+  background-color: white;
+}
+
+div#content div.intro {
+  background-color: black;
+  color: white;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
