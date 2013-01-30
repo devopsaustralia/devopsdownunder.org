@@ -12,9 +12,7 @@ end
 
 desc "build site"
 task :build do
-  unless system("jekyll")
-    puts "jekyll failed, maybe it isn't installed"
-  end
+  sh "jekyll"
 end
 
 desc "serve site"
