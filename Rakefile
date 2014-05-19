@@ -12,7 +12,7 @@ end
 
 desc "build site"
 task :build do
-  sh "jekyll"
+  sh "jekyll build"
 end
 
 desc "serve site"
