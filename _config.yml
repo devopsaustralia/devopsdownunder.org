@@ -1,6 +1,7 @@
 --- 
 permalink: pretty
 title: "Devops Down Under | devopsdownunder.org"
-markdown: rdiscount
-pygments: true
-server_port: 9000
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
