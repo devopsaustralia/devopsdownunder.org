@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'rdiscount'
